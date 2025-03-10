@@ -48,3 +48,6 @@
 
 
 - LandScape is arrangement fo servers.
+
+- every transaction in SAP is stored as a document.
+- no transaction in SAP is completed without generating a document.
